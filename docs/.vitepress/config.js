@@ -6,7 +6,6 @@ var itemsFoo = [
 export default {
     title: 'VitePressx',
     description: 'Just playing around.',
-    base: 'zxdocs',
     themeConfig: {
         sidebar: [
           {
