@@ -13,5 +13,9 @@ export default {
             items: itemsFoo
           }
         ]
-      }
+      },
+    blog: {
+      title: 'My Blog',
+      description: 'Some articles for sample Blog',
+    },
   }
