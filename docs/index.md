@@ -1,7 +1,6 @@
 ---
 layout: home
 
-
 hero:
   name: VitePress
   text: Vite & Vue powered static site generator.
@@ -14,8 +13,6 @@ hero:
       text: View on GitHub
       link: https://github.com/vuejs/vitepress
       
-
-
 features:
   - icon: ⚡️
     title: Vite, The DX that can't be beat
