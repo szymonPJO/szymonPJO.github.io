@@ -1,11 +1,22 @@
-import Layout from './components/customWidget.vue'
-
+// .vitepress/theme/index.js
+import Layout from './LayoutX.vue'
+import DefaultTheme from 'vitepress/theme'
 
 export default {
-    Layout,
-  enhanceApp({ app }) {
-    app.use({
-    //   registerComponents: true,
-    })
+  // root component to wrap each page
+  ...DefaultTheme,
+
+  // this is a Vue 3 functional component
+  NotFound: () => 'custom 404',
+
+  enhanceApp({ app, router, siteData }) {
+    // app is the Vue 3 app instance from `createApp()`.
+    // router is VitePress' custom router. `siteData` is
+    // a `ref` of current site-level metadata.
   },
+
+  setup() {
+    // this function will be executed inside VitePressApp's
+    // setup hook. all composition APIs are available here.
+  }
 }
