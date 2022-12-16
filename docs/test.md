@@ -4,7 +4,7 @@ data: '2022'
 ---
 # Test
 
-Sprawdzam dzialanie kolejnej strony
+Sprawdzam dzialanie kolejnej stronyyyy
 
 <span v-for="i in 3">{{ i }}</span>
 
