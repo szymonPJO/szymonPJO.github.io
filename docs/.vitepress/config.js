@@ -1,18 +1,16 @@
-var itemsFoo = [
-    { text: 'Introduction', link: '/introduction' },
-    { text: 'xetting Started', link: '/getting-started' }
-  ]
-
 export default {
     title: 'VitePressx',
     description: 'Just playing around.',
     themeConfig: {
-        sidebar: [
-          {
-            text: 'Guide',
-            items: itemsFoo
-          }
-        ],
+        // sidebar: [
+        //   {
+        //     text: 'Foo',
+        //     items: [
+        //       { text: 'Bar', link: '/bar' },
+        //       { text: 'Baz Started', link: '/baz' }
+        //     ]
+        //   }
+        // ],
         nav: [
           { text: 'Home', link: '/' },
           { text: 'Blog', link: '/articlesTest/' },
