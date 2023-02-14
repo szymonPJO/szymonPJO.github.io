@@ -7,8 +7,12 @@
   --vp-c-brand-light: #d18e8e;
   --vp-c-brand-dark: #691818;
 
-  /* --vp-font-family-base:
-  --vp-font-family-mono: */
+  /* --vp-font-family-base: "LXGW WenKai Lite", "Inter var experimental",
+    "Inter var", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  --vp-font-family-mono: "LXGW WenKai Mono Lite", ui-monospace, SFMono-Regular,
+    "SF Mono", Menlo, Monaco, Consolas, "Liberation Mono", "Courier New",
+    monospace; */
 }
 .dark {
   --vp-c-bg: #353330;
