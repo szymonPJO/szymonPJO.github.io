@@ -1,0 +1,32 @@
+@import url("https://cdn.jsdelivr.net/npm/lxgw-wenkai-lite-webfont@1.6.0/style.min.css");
+:root {
+  --vp-c-bg: #f8efef;
+  --vp-c-bg-alpha-with-backdrop: rgba(248, 240, 240, 0.7);
+  --vp-c-hover: #272727;
+  --vp-c-brand: #be2929;
+  --vp-c-brand-light: #d18e8e;
+  --vp-c-brand-dark: #691818;
+
+  /* --vp-font-family-base:
+  --vp-font-family-mono: */
+}
+.dark {
+  --vp-c-bg: #353330;
+  --vp-c-bg-alpha-with-backdrop: rgba(66, 69, 83, 0.7);
+  --vp-c-hover: white;
+  --vp-c-text: white;
+}
+
+.theme {
+  background-color: var(--vp-c-bg);
+}
+
+#app {
+  min-height: 100vh;
+  position: relative;
+}
+
+.vp-doc h2 {
+  margin-top: 0;
+  border-top: none;
+}
