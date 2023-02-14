@@ -31,9 +31,5 @@ export default {
           { icon: "linkedin", link: "/" },  
         ],
       },
-    blog: {
-      title: 'My Blog',
-      description: 'Some articles for sample Blog',
-    },
     srcDir: './src',
   }
