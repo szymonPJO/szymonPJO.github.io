@@ -25,7 +25,7 @@ export default {
           // }
         ],
         socialLinks: [
-          { icon: "github", link: "https://github.com/clark-cui" },
+          { icon: "github", link: "https://github.com/szymonPJO" },
           { icon: "instagram", link: "/" },
           { icon: "youtube", link: "/" },
           { icon: "linkedin", link: "/" },  
