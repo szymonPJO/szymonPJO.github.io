@@ -1,17 +1,19 @@
 <script lang="ts" setup>
-    import Brain from "./brain.vue";
+    // import Brain from "./brain.vue";
+    // import TestFitText from "./testFitText.vue";
+    // import TestFitImg from "./testFitImage.vue";
+    import BrainImage from "./brainImage.vue";
 </script>
 
 <template>
     <div class="logo">
-        <Brain />
+        <BrainImage />
         <h1 class="welcome">
             <span>Hej, Szymon Ostrowski tutaj 🛠</span>
         </h1>
         <h2 class="descripton">
             Elekotrnika, stm32, avr, esp32
         </h2>
-        <!-- awd -->
     </div>
 </template>
 

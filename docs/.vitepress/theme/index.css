@@ -6,6 +6,11 @@
   --vp-c-brand: #be2929;
   --vp-c-brand-light: #d18e8e;
   --vp-c-brand-dark: #691818;
+  --brain-stroke-color: #525252;
+  --brain-bg-color: #ffffff;
+  --brain-mask-stroke-opacity: #989898;
+  --brain-mask-bg-opacity: #dfdfdf;
+  --brain-stroke-width: 15;
 
   /* --vp-font-family-base: "LXGW WenKai Lite", "Inter var experimental",
     "Inter var", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
