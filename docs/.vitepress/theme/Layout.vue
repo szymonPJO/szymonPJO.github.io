@@ -8,10 +8,17 @@
     <Layout>
         
       <template #doc-before>
-        <h1>Test1!</h1>
+        <p class="data">{{ $frontmatter.data }}</p>
       </template>
       <template #doc-after>
         <h1>Test2!</h1>
       </template>
     </Layout>
 </template>
+
+<style>
+.data{
+  font-weight: 200;
+  font-size: small;
+}
+</style>
