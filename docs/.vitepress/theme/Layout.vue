@@ -8,7 +8,7 @@
     <Layout>
         
       <template #doc-before>
-        <p class="data">{{ $frontmatter.data }}</p>
+        <p class="date">{{ $frontmatter.date }}</p>
       </template>
       <template #doc-after>
         <h1>Test2!</h1>
@@ -17,7 +17,7 @@
 </template>
 
 <style>
-.data{
+.date{
   font-weight: 200;
   font-size: small;
 }
