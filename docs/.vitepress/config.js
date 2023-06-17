@@ -13,7 +13,7 @@ export default {
         // ],
         nav: [
           { text: 'Home', link: '/' },
-          { text: 'Blog', link: '/articlesTest/' },
+          { text: 'Blog', link: '/blog/index' },
           { text: 'About', link: 'https://google.com' },
           // {
           //   text: 'Dropdown Menu',
