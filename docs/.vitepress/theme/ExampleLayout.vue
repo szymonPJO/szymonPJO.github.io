@@ -1,6 +1,10 @@
 <script lang="ts" setup>
   import DefaultTheme from "vitepress/theme";
   const { Layout } = DefaultTheme;
+
+  interface frontmatter {
+  date: string
+}
 </script>
 <style scoped></style>
 
@@ -8,10 +12,12 @@
     <Layout>
         
       <template #doc-before>
-        <p class="date">{{ $frontmatter.date }}</p>
+        <p class="date">{{ $frontmatter.date}}</p>
+        <div class="vp-doc">
+          <h1>{{ $frontmatter.title}}</h1>
+        </div>
       </template>
       <template #doc-after>
-        <h1>Test2!</h1>
       </template>
     </Layout>
 </template>
@@ -20,5 +26,7 @@
 .date{
   font-weight: 200;
   font-size: small;
+}
+.title {
 }
 </style>
