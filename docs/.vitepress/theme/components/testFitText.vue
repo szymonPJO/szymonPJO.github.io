@@ -14,6 +14,7 @@
   text-align: center;
   outline: 2px dashed red;
 }
+
 #text {
   position: absolute;
   left: 50%;

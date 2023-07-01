@@ -33,10 +33,12 @@ onContentUpdated(() => {
   font-size: xx-small;
   opacity: 0.4;
 }
+
 .date {
   font-weight: 2000;
   font-size: small;
 }
+
 /* .title {
 } */
 </style>
