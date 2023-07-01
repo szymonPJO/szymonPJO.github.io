@@ -1,11 +1,16 @@
 <script lang="ts" setup>
 import DefaultTheme from "vitepress/theme";
+import { useData, onContentUpdated } from "vitepress";
+import { ref } from "vue";
 const { Layout } = DefaultTheme;
-
-import { useData } from "vitepress";
 const { frontmatter } = useData();
-var dateText = frontmatter.value.date ?? "MISSED DATE !";
-var titleText = frontmatter.value.title ?? "MISSED TITLE !";
+
+const titleText = ref("");
+const dateText = ref("");
+onContentUpdated(() => {
+  titleText.value = frontmatter.value.title ?? "MISSED TITLE !";
+  dateText.value = frontmatter.value.date ?? "MISSED DATE !";
+});
 </script>
 
 <template>
@@ -13,10 +18,10 @@ var titleText = frontmatter.value.title ?? "MISSED TITLE !";
     <template #doc-before>
       <p class="path">Blog / {{ titleText }}</p>
       <p class="date">{{ dateText }}</p>
-        <div class="vp-doc">
-          <h1>{{ titleText }}</h1>
-        </div>
-      </template>
+      <div class="vp-doc">
+        <h1>{{ titleText }}</h1>
+      </div>
+    </template>
     <template #doc-after> </template>
   </Layout>
 </template>

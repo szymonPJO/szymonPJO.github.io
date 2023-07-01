@@ -1,3 +1,5 @@
+import { getPosts } from "./theme/utils";
+
 export default {
     title: 'Szymon Ostrowski',
     description: 'Just playing around.',
@@ -24,6 +26,7 @@ export default {
           //   ]
           // }
         ],
+    posts: await getPosts(),
         socialLinks: [
           { icon: "github", link: "https://github.com/szymonPJO" },
           { icon: "instagram", link: "/" },
