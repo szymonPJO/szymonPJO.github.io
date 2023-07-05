@@ -38,7 +38,4 @@ onContentUpdated(() => {
   font-weight: 2000;
   font-size: small;
 }
-
-/* .title {
-} */
 </style>

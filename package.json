@@ -1,9 +1,5 @@
 {
   "type": "module",
-  "devDependencies": {
-    "vitepress": "1.0.0-beta.2",
-    "vue": "3.3.4"
-  },
   "name": "lession_1",
   "version": "1.0.0",
   "main": "index.js",
@@ -14,6 +10,8 @@
     "preview": "vitepress preview"
   },
   "dependencies": {
+    "vitepress": "1.0.0-beta.2",
+    "vue": "3.3.4",
     "fs-extra": "^11.1.1",
     "globby": "^13.2.0",
     "gray-matter": "^4.0.3",

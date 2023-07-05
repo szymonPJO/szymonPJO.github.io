@@ -44,7 +44,6 @@ function _convertDate(dateString) {
 }
 
 function _dateSort(a, b) {
-  // data.date = _convertDate(data.date);
   return new Date(b.dateSorting) - new Date(a.dateSorting);
 }
 

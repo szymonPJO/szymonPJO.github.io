@@ -10,9 +10,3 @@ Wpisy o różnej tematyce lub udostępnienia treści, które uważam za wartośc
 <script setup>
 import BlogList from '@theme/components/blogList.vue'
 </script>
-
-<style>
-.h1 {
-    color: red;
-}
-</style>

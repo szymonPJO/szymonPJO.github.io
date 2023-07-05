@@ -34,8 +34,8 @@
 }
 
 .animation {
-  /* margin: 0;s3d3f49
-        padding: 0;        */
+  /* margin: 0;s3d3f49 */
+  /* padding: 0;        */
   /* display: block; */
   width: 50%;
   max-width: 180px;

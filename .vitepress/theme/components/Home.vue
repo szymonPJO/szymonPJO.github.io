@@ -1,7 +1,4 @@
 <script lang="ts" setup>
-// import Brain from "./brain.vue";
-// import TestFitText from "./testFitText.vue";
-// import TestFitImg from "./testFitImage.vue";
 import BrainImage from "./brainImage.vue";
 </script>
 
