@@ -20,7 +20,7 @@
       </g>
     </svg>
   </div>
-  <image href="..\..\..\src\blog\images\testImage.jpg" x="0" y="0" width="100" height="100" />
+  <image href="..\..\..\files\blog\images\testImage.jpg" x="0" y="0" width="100" height="100" />
   <div style="height: 24px"></div>
 </template>
 

@@ -34,5 +34,5 @@ export default {
       { icon: "linkedin", link: "/" },
     ],
   },
-  srcDir: "./src",
+  srcDir: "./files",
 };

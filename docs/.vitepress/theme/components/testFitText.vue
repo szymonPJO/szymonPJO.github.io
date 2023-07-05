@@ -2,7 +2,7 @@
 
 <template>
   <div id="element">
-    <img src="..\..\..\src\blog\images\testImage.jpg" x="0" y="0" width="100" />
+    <img src="..\..\..\files\blog\images\testImage.jpg" x="0" y="0" width="100" />
     <h1 id="text">text 1</h1>
   </div>
 </template>
