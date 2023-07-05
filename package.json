@@ -9,9 +9,9 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress preview docs"
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
   },
   "dependencies": {
     "fs-extra": "^11.1.1",

@@ -34,10 +34,7 @@ export async function getPosts() {
 }
 
 async function getPostMDFilePaths() {
-  let paths = await globby([
-    "docs/files/blog/**.md",
-    "!docs/files/blog/index.md",
-  ]);
+  let paths = await globby(["files/blog/**.md", "!files/blog/index.md"]);
   return paths;
 }
 
