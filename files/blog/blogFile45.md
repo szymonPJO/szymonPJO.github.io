@@ -1,0 +1,9 @@
+---
+title: "Pręta"
+date: "25.11.2007"
+---
+
+<!-- Przykładowy plik - wygenerowany automatycznie -->
+Do mechanizmu jednokrotnie gdzie prostych wału też obrotowego ma przeniesienia.Wału jedną też korba – pręta.Na tego jednym wokół kształcie przykładem prostych ma.Kołowrotu też ruch ma lub element po odmianą wału.Jednokrotnie mechanizmu jednym.Pręta złożeniem jest wymusza elementem też tego wokół dwukrotnie służący odmianą przykładem.Kształcie gdzie obrotowego.Dźwigniowych lub kształcie stóp.Stóp stóp elementem łańcuchową korby dźwigni mechanizmu jest i.Ruch prostej jednostronnej jest element elementem do na osi maszyny.Dźwigniowych prostej maszyny prostych konstrukcję ramienia też dźwigni przykładem.Osi zagiętego kształcie stóp jest po ruch pręta przekazywany lub mechanizmów.I konstrukcję drzwiowa innej konstrukcję korba w kolarza.Z tego koła obwodzie po.Rowerowa klamka korba odmianą gdzie obrotowego.Zwykle kolarza jest klamka dźwigniowych prostej złożeniem dźwigniowych też jest ruch.Ruch przeniesienia lub jedną na ma dwukrotnie korba.Korba dźwigni elementem dźwigni przekładnią.Maszyny łańcuchową koła wału zaklinowanego.Łańcuchową kolarza dźwigniowych.Jest przekładnią korba.Przekazywany wymusza do.Po na klamka ruch przykładem.I maszyn drzwiowa z ruch.Przekładnią korba na koła jest do kolarza jest element – dźwigniowych maszyny.Kształcie wału gdzie lub przekazywany złożeniem i.Kształcie jest jest.Prostych obwodzie gdzie maszyn dźwigni jednokrotnie wału przykładem kształcie elementem ma.Maszyny przeniesienia ruch łańcuchową wymusza.Korba korba ruchu też wymusza pręta tego.Koła przekazywany zaklinowanego do gdzie innej.
+
+    *exampleBlogGenerator.py*
