@@ -26,7 +26,6 @@ onContentUpdated(() => {
   </Layout>
 </template>
 
-<style scoped></style>
 <style>
 .path {
   font-weight: 2000;
