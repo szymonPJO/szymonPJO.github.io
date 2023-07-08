@@ -1,9 +1,10 @@
 ---
-title: "Pręta"
-date: "25.11.2007"
+title: "Dźwigniowych końcem jedną konstrukcję"
+date: "06.09.2018"
+description: Maszyn dwukrotnie obrotowego też elementem
 ---
 
 <!-- Przykładowy plik - wygenerowany automatycznie -->
-Do mechanizmu jednokrotnie gdzie prostych wału też obrotowego ma przeniesienia.Wału jedną też korba – pręta.Na tego jednym wokół kształcie przykładem prostych ma.Kołowrotu też ruch ma lub element po odmianą wału.Jednokrotnie mechanizmu jednym.Pręta złożeniem jest wymusza elementem też tego wokół dwukrotnie służący odmianą przykładem.Kształcie gdzie obrotowego.Dźwigniowych lub kształcie stóp.Stóp stóp elementem łańcuchową korby dźwigni mechanizmu jest i.Ruch prostej jednostronnej jest element elementem do na osi maszyny.Dźwigniowych prostej maszyny prostych konstrukcję ramienia też dźwigni przykładem.Osi zagiętego kształcie stóp jest po ruch pręta przekazywany lub mechanizmów.I konstrukcję drzwiowa innej konstrukcję korba w kolarza.Z tego koła obwodzie po.Rowerowa klamka korba odmianą gdzie obrotowego.Zwykle kolarza jest klamka dźwigniowych prostej złożeniem dźwigniowych też jest ruch.Ruch przeniesienia lub jedną na ma dwukrotnie korba.Korba dźwigni elementem dźwigni przekładnią.Maszyny łańcuchową koła wału zaklinowanego.Łańcuchową kolarza dźwigniowych.Jest przekładnią korba.Przekazywany wymusza do.Po na klamka ruch przykładem.I maszyn drzwiowa z ruch.Przekładnią korba na koła jest do kolarza jest element – dźwigniowych maszyny.Kształcie wału gdzie lub przekazywany złożeniem i.Kształcie jest jest.Prostych obwodzie gdzie maszyn dźwigni jednokrotnie wału przykładem kształcie elementem ma.Maszyny przeniesienia ruch łańcuchową wymusza.Korba korba ruchu też wymusza pręta tego.Koła przekazywany zaklinowanego do gdzie innej.
+Jest jedną kołowrotu. Tego odmianą obwodzie jedną maszyny przeniesienia jest korby. Kolarza klamka obrotowy służący. Osi koła korba korby. Też wymusza maszyny maszyn odmianą służący odmianą jest maszyny lub prostej. Dźwigniowych łańcuchową na jest prostej kształcie zaklinowanego do. Ruch drzwiowa mechanizmu przekazywany suportu zagiętego – jest ruchu rowerowa. Koła maszyny jednokrotnie. Prostych przekładnią korba wału wału jedną maszyn pręta. Dźwigni obwodzie korba. Stóp rowerowa suportu obrót korba jest z na. Rowerowa stóp mechanizmu dźwigni wału maszyny element dwukrotnie drzwiowa dwukrotnie mechanizmu. Na element wału na na korba maszyn. 
 
     *exampleBlogGenerator.py*

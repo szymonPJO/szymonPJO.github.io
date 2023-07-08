@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 import os
 
 # SETTINGS #
-NUM_FILES                           = 20
+NUM_FILES                           = 59
 DESCRIPTION_POSSIBILITY_PERCENTAGE  = 50
 # FOLDER_NAME                         = "Blog_Examples" #Comment to run without folder
 RELATIVE_PATH                       = "files/blog"
@@ -25,7 +25,7 @@ def content():
     content = ''
     for _ in range(num_sentences):
         sentence = ' '.join(random.choices(words, k=random.randint(3, 12)))
-        sentence = sentence.capitalize() + '.'
+        sentence = sentence.capitalize() + '. '
         content += sentence
     return content
 

@@ -1,10 +1,10 @@
 ---
-title: "Zaklinowanego przekładnią"
-date: "05.08.2002"
-description: Złożeniem odmianą jednokrotnie – osi suportu na też koła przekładnią
+title: "Dwukrotnie jednym suportu"
+date: "27.10.2009"
+description: Złożeniem maszyn maszyn
 ---
 
 <!-- Przykładowy plik - wygenerowany automatycznie -->
-Przeniesienia na mechanizmów osi rowerowa mechanizmów też prostych dwukrotnie napędowego.Dźwigni na maszyny.Innej korba jest.Dwukrotnie końcem przekazywany.Napędowego jednym przekładnią jest korba też ma przekazywany.Ma wymusza ruch jest tego obrót jednym.Jest na koła przekazywany wymusza jest jest jednokrotnie wymusza złożeniem wału –.Ruchu korba służący elementem.Mechanizmu gdzie jest jest kolarza wału koła.Element odmianą rowerowa maszyn na jest ramienia z ruch.Przeniesienia jednym zaklinowanego dźwigniowych ruch korba wału.Dwukrotnie element przeniesienia ruchu kształcie wału ruch innej jest korba.Wału koła do do obrót suportu stóp ramienia wału końcem.Koła – jest służący przekładnią dźwigniowych konstrukcję osi.Ruchu maszyn też na korba jedną złożeniem.Na jedną osi pręta.
+Kolarza lub po ruch korba jest w korba jednym końcem do jest. Koła dźwigniowych na jest rowerowa innej jedną jest służący obrotowego. Obrotowy kolarza drzwiowa mechanizmów rowerowa i obrotowy jedną jednym zagiętego element. Pręta ruch zwykle dźwigni kołowrotu osi koła ruch klamka służący koła. Do prostych ruch. Kolarza jednostronnej lub zaklinowanego osi ruchu przeniesienia jest. Jednokrotnie dźwigni osi prostych stóp dźwigni ruch korba jednokrotnie. Wału element do służący na obrotowy kolarza z. Tego jest kolarza. Ma ruch drzwiowa z stóp końcem jest przeniesienia korba przekładnią obwodzie przekładnią. 
 
     *exampleBlogGenerator.py*

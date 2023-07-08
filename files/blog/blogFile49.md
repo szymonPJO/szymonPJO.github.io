@@ -1,10 +1,9 @@
 ---
-title: "Do końcem końcem do"
-date: "08.06.2001"
-description: Osi innej obrotowego
+title: "Służący"
+date: "21.05.2008"
 ---
 
 <!-- Przykładowy plik - wygenerowany automatycznie -->
-Też jest przekładnią.Po ramienia klamka przekazywany też przeniesienia maszyny jednostronnej końcem też.Ruch element przekładnią jest w dwukrotnie innej.Obwodzie koła ruch kolarza dźwigniowych zaklinowanego osi pręta.Rowerowa innej na suportu w rowerowa kołowrotu ruch złożeniem służący.Dźwigni jednym jednym kolarza jednym.Kołowrotu kształcie korba prostej rowerowa też zaklinowanego element wału dźwigni tego klamka.
+Przekazywany końcem osi złożeniem dźwigniowych klamka prostej obwodzie elementem osi jest. Kolarza po jedną złożeniem pręta wymusza zwykle z. Łańcuchową lub do korby korba. Konstrukcję lub – kołowrotu – łańcuchową koła przykładem jedną na po suportu. Mechanizmu ruch i elementem jednokrotnie mechanizmu z lub dwukrotnie też. 
 
     *exampleBlogGenerator.py*

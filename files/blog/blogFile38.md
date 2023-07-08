@@ -1,10 +1,9 @@
 ---
-title: "W ruch korba w"
-date: "10.02.2006"
-description: Dźwigniowych konstrukcję konstrukcję gdzie wymusza
+title: "Element obrotowego"
+date: "13.12.2011"
 ---
 
 <!-- Przykładowy plik - wygenerowany automatycznie -->
-Jest korba tego obrót maszyny służący koła końcem kołowrotu jest koła obwodzie.Do klamka obrót elementem obrót obwodzie w rowerowa na dwukrotnie.Przekazywany gdzie innej wału koła drzwiowa pręta na.Mechanizmu osi obwodzie i rowerowa zaklinowanego koła.Korba jednokrotnie korba przeniesienia.Kształcie gdzie osi ramienia.Drzwiowa do konstrukcję zagiętego ma dźwigni jest –.Wymusza – jednostronnej z gdzie osi w.Napędowego i osi ma na jest ma element jednostronnej.
+Lub drzwiowa korba wału prostych też korba klamka. Koła prostych ramienia elementem przykładem przeniesienia korba korba przykładem korba w. Przekładnią dźwigni elementem kształcie element dźwigniowych też jest jednokrotnie korba jedną osi. Jest korba w przykładem lub i łańcuchową. Jest koła wału ruchu. Z służący prostych zagiętego jest korba. Osi służący rowerowa. Koła korba obrotowego obrotowy przeniesienia jednym koła korby korba korba ramienia korby. Do wymusza obrotowy korba i obrotowego korba ma dźwigniowych końcem jest. Z zaklinowanego ramienia. Po korby korby ramienia pręta wokół obrotowy napędowego złożeniem. Odmianą lub lub korba ruch jest osi ramienia przeniesienia ramienia konstrukcję rowerowa. Mechanizmu do wału osi korba ruchu koła mechanizmu na koła przekładnią jest. Maszyn korba wokół lub wału przekładnią korba. Jednym obrót mechanizmów. Przekładnią maszyny elementem kształcie zagiętego obwodzie obrotowy prostych rowerowa osi elementem dwukrotnie. Jest obrót osi kołowrotu jest innej osi. Też służący odmianą. Konstrukcję pręta mechanizmów jest obrotowego klamka klamka koła stóp końcem na kołowrotu. Jednokrotnie korby jednym. Maszyn koła jest drzwiowa prostych zaklinowanego jednym kształcie jest odmianą pręta. Jest złożeniem do rowerowa korba z. Innej kołowrotu drzwiowa. Przekładnią mechanizmu w wokół korba. Przeniesienia ma łańcuchową obwodzie przekazywany zaklinowanego przeniesienia korba osi. Konstrukcję z wału w stóp osi wokół korba. I zaklinowanego – jest przeniesienia jest. Kształcie koła odmianą elementem klamka korba dźwigni dźwigni napędowego gdzie elementem korba. Dźwigni – ruch jedną koła obrót jest jest korba innej końcem gdzie. Do klamka jednym. Kołowrotu koła końcem kolarza ruch obrotowy rowerowa korba ma jednym klamka. Ruch wału koła odmianą w element. 
 
     *exampleBlogGenerator.py*
