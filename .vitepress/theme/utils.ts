@@ -4,16 +4,28 @@ import fs from "fs-extra";
 import path from "path";
 
 // EXAMPLE OF USING "INTERFACE" FOR POSTS
-// interface Post = {
-//   regularPath: string,
-//   dateSorting: string,
-//   frontMatter: {
-//     date?: string,
-//     title?: string,
-//     tags?: string[],
-//     description?: string,
-//   },
-// };
+// const {} = await import("vue");
+export interface PostDetails {
+  regularPath: string;
+  dateSorting: string;
+  frontMatter: {
+    date?: string;
+    title?: string;
+    tags?: string[];
+    description?: string;
+  };
+}
+
+export type Damn = {
+  regularPath: string;
+  dateSorting: string;
+  frontMatter: {
+    date?: string;
+    title?: string;
+    tags?: string[];
+    description?: string;
+  };
+};
 
 export async function getPosts() {
   let paths = await getPostMDFilePaths();
@@ -44,7 +56,7 @@ function _convertDate(dateString) {
 }
 
 function _dateSort(a, b) {
-  return new Date(b.dateSorting) - new Date(a.dateSorting);
+  return new Date(b.dateSorting).getTime() - new Date(a.dateSorting).getTime();
 }
 
 function _transformPath(path) {
