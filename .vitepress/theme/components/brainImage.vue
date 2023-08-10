@@ -35,9 +35,9 @@
       </mask>
 
       <g mask="url(#brainMask)">
-        <image id="brainImg-image" preserveAspectRatio="xMidYMid slice"
-          xlink:href="https://images.unsplash.com/photo-1618334393958-ffe6d9bd2ab5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80" />
+        <image id="brainImg-image" preserveAspectRatio="xMidYMid slice" xlink:href="..\..\res\myDog.png" />
       </g>
+      <!-- <img src="..\..\..\files\blog\images\aaa.jpg" alt=""> -->
     </svg>
   </div>
 </template>
