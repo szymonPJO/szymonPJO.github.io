@@ -23,8 +23,10 @@ import BrainImage from "./brainImage.vue";
 .welcome {
   display: flex;
   align-items: center;
+  text-align: center;
   font-size: 2.2em;
   font-weight: bold;
+  line-height: 1;
 }
 
 .descripton {

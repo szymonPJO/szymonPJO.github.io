@@ -35,7 +35,8 @@
       </mask>
 
       <g mask="url(#brainMask)">
-        <image id="brainImg-image" preserveAspectRatio="xMidYMid slice" xlink:href="..\..\res\myDog.png" />
+        <image id="brainImg-image" width="100" height="100"
+          xlink:href="https://avatars.githubusercontent.com/u/64552414" />
       </g>
       <!-- <img src="..\..\..\files\blog\images\aaa.jpg" alt=""> -->
     </svg>

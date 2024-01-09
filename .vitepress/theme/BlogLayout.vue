@@ -30,11 +30,12 @@ onContentUpdated(() => {
 .path {
   font-weight: 2000;
   font-size: xx-small;
-  opacity: 0.4;
+  opacity: .4;
 }
 
 .date {
   font-weight: 2000;
   font-size: small;
+  color: var(--vp-c-text-2);
 }
 </style>

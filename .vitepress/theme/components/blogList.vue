@@ -50,11 +50,10 @@ go(1);
           <div class="titleArticle">{{ post.frontMatter.title }}</div>
           <div class="date">{{ post.frontMatter.date }}</div>
           <div class="description">{{ post.frontMatter.description }}</div>
-          <br />
+          <!-- <br /> -->
         </a>
       </div>
       <div class="pagination">
-        divHolder
         <button class="left" v-if="listPageCurrent > 1" @click="go(listPageCurrent - 1)">
           Previous page
         </button>
@@ -93,8 +92,11 @@ div .flexContainer {
 .article {
   /* text-align: start; */
   margin-top: 10px;
-  border: 10px solid #628388;
+  border: 1px solid var(--vp-c-text-2);
+  border-radius: 10px;
+  padding: 10px 30px;
   width: 100%;
+  min-height: 100px;
 }
 
 .titleArticle {
@@ -103,7 +105,7 @@ div .flexContainer {
 
 .description {
   /* font-size: 1em; */
-  color: lightgray;
+  color: var(--vp-c-text-2);
   font-weight: 300;
 }
 
@@ -115,13 +117,12 @@ div .flexContainer {
   align-items: center;
 }
 
-/* FIXME: przeskakuje kiedy jest opis wpisu bloga, a kiedy nie ma */
 .pagination {
   /* Box model */
   position: relative;
-  width: 85%;
+  /* width: 85%; */
   max-width: 600px;
-  margin: 0 auto;
+  margin: 20px auto;
 
   /* Flexbox */
   display: flex;
@@ -129,14 +130,15 @@ div .flexContainer {
   justify-content: center;
 
   /* Visual */
-  background-color: black;
+  /* background-color: black; */
 }
 
-button {
-  /* color: var(--vp-c-color-d); */
-  /* cursor: pointer; */
+.pagination button {
   font-size: 1.2em;
   font-weight: bold;
+  color: var(--vp-c-text-2);
+  padding: 10px;
+  background-color: rgba(127, 127, 127, 0.2);
 }
 
 .left {
