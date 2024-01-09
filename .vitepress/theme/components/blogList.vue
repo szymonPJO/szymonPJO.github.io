@@ -87,6 +87,7 @@ div .flexContainer {
   size: 10px;
   font-weight: 300;
   text-align: center;
+  color: var(--vp-c-text-2);
 }
 
 .article {

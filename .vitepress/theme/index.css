@@ -1,14 +1,16 @@
 @import url("https://cdn.jsdelivr.net/npm/lxgw-wenkai-lite-webfont@1.6.0/style.min.css");
 :root {
   --vp-c-bg: #f8efef;
-  --vp-c-hover: #272727;
-  --vp-c-brand: #be2929;
+  --vp-c-hover-1: #00ff1e;
+  --vp-c-brand-1: #eba300;
   --brain-stroke-color: #525252;
   --brain-bg-color: #ffffff;
   --brain-mask-stroke-opacity: #656565;
   --brain-mask-bg-opacity: #e0dede;
   --brain-stroke-width: 15;
-  --vp-c-text-2: rgb(60, 60, 67, 0.7);
+  --vp-c-text-2: rgba(60, 60, 67, 0.7);
+  --vp-nav-bg-color: var(--vp-c-bg);
+  --vp-c-gutter: var(--vp-c-bg);
 
   /* --vp-font-family-base: "LXGW WenKai Lite", "Inter var experimental",
     "Inter var", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
@@ -18,7 +20,7 @@
     monospace; */
 }
 .dark {
-  --vp-c-bg: #353330;
+  --vp-c-bg: #343332;
   --vp-c-bg-alpha-with-backdrop: rgba(66, 69, 83, 0.7);
   --vp-c-hover: white;
   --vp-c-text-2: rgb(236, 236, 236, 0.6);
