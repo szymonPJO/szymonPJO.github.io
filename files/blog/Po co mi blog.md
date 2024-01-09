@@ -4,7 +4,7 @@ title: Po co mi blog?
 description: Krótkie wytłumaczenie, dlaczego zamierzam mieć własnego bloga na github
 ---
 
-![Blog illustration](/images/blogIllustrationAI.png)
+![Blog illustration](images/blogIllustrationAI.png)
 
 ## Motywacja
 
