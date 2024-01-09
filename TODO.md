@@ -5,3 +5,5 @@
 [ ] Responsywność dla mobilki
 
 [ ] Zamiast path dać " - Blog" po dacie
+
+[ ] Jeśli możliwe, przerzucić stronke na bnranch "web", a na main tylko artykuły

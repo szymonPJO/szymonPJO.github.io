@@ -1,7 +1,6 @@
 ---
 layout: page
 title: home
-date: 2020201077392
 ---
 
 <script setup>
