@@ -1,6 +1,6 @@
 ---
-Date: 09.01.2024
 title: Po co mi blog?
+date: 09.01.2024
 description: Krótkie wytłumaczenie, dlaczego zamierzam mieć własnego bloga na github
 ---
 
@@ -8,8 +8,8 @@ description: Krótkie wytłumaczenie, dlaczego zamierzam mieć własnego bloga n
 
 ## Motywacja
 
-Prosta sprawa, chciałem ogarnąć vitepress i trochę poznać web frontend. 
-Jak też, chciałbym zostawiać tu krótkie wpisy, głównie polecające treści, które mnie zainspirowały, wniosły coś wartościowego do mojego życia. 
+Prosta sprawa, chciałem ogarnąć vitepress i trochę poznać web frontend.
+Jak też, chciałbym zostawiać tu krótkie wpisy, głównie polecające treści, które mnie zainspirowały, wniosły coś wartościowego do mojego życia.
 Zarówno jeśli chodzi o sprawy technicznie, jak i powiedzmy humanistyczne.
 
 Bywa czasem, że poleciłbym komuś coś przeczytać, lub posłuchać, a nie zapamiętałem autora, nie ma czasu tego szukać itp.
